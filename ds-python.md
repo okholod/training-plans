@@ -9,3 +9,12 @@
   - Data Science Foundations - https://cognitiveclass.ai/learn/data-science/
   - Applied Data Science with Python - https://cognitiveclass.ai/learn/data-science-with-python/
   - Machine Learning with Python - https://cognitiveclass.ai/courses/machine-learning-with-python/
+  
+## IBM Cloud + Watson Studio
+- Create IBM Cloud account - https://cloud.ibm.com/registration
+- Create Watson Studio account - https://dataplatform.cloud.ibm.com/
+
+## Docker + Kubernetes
+- Complete the following courses
+  - Docker Essentials: A Developer Introduction - https://cognitiveclass.ai/courses/docker-essentials/
+  - Container & Kubernetes Essentials with IBM Cloud - https://cognitiveclass.ai/courses/kubernetes-course/
