@@ -13,6 +13,12 @@
 ## IBM Cloud + Watson Studio
 - Create IBM Cloud account - https://cloud.ibm.com/registration
 - Create Watson Studio account - https://dataplatform.cloud.ibm.com/
+  - Go through the Watson Studio Overview - https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/overview-ws.html
+  
+## Training Project - Data Analysis and Visualization
+- Create a project in Watson Studio
+- Create a notebook in Watson Studio
+- Publish the notebook to GitHub and share with your supervisor
 
 ## Docker + Kubernetes
 - Complete the following courses
