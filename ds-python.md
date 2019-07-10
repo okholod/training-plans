@@ -3,6 +3,7 @@
 ## Jupyter Notebooks
 - Start with installing Anaconda and check Jupyter notebooks there - https://www.anaconda.com/distribution/
 - Read the user documentation and play with samples - https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/examples_index.html
+- Jupyter Notebook Tips, Tricks, and Shortcuts - https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 
 ## Data Science Basics
 - Start with these learning paths and courses
