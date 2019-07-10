@@ -12,7 +12,7 @@
 - Create an instance of Analytics Engine service - https://cloud.ibm.com/catalog/services/analytics-engine
 
 ### Training Application - Data Load
-- Create an account on Github and shere it with your supervisor
+- Create an account on Github and share it with your supervisor
 - Create an instance 
 - Create a Scala application that
   - Connects to the DB2 instance on the cloud
