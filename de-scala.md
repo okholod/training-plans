@@ -13,7 +13,7 @@
 
 ### Training Application - Data Load
 - Create an account on Github and share it with your supervisor
-- Create an instance 
+- Create an instance of DB2 service on the cloud
 - Create a Scala application that
   - Connects to the DB2 instance on the cloud
   - Generates a table with 20k of sample records
