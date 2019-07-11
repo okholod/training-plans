@@ -20,6 +20,7 @@
 - Create a project in Watson Studio
 - Create a notebook in Watson Studio
 - Publish the notebook to GitHub and share with your supervisor
+- Perform exploratory analysis and initial visualization for the *Boston house prices dataset* - https://scikit-learn.org/stable/datasets/index.html#boston-dataset
 
 ## Docker + Kubernetes
 - Complete the following courses
