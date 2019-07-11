@@ -25,6 +25,14 @@
   - If there are multiple product rows for different years, product/group combination should be concise
 - Application should be built using **sbt** tool
 
+### Training Application - Unit Tests
+- Add unit tests to the training application
+  - For unit tests creation use *ScalaTest* framework - http://www.scalatest.org/user_guide
+  - Tests style *org.scalatest.FunSpec* - http://www.scalatest.org/getting_started_with_fun_spec
+  - Mocks for external connections *org.scalamock.scalatest.MockFactory* - https://scalamock.org/
+  - Utility to compare dataframes *com.github.mrpowers.spark.fast.tests.DataFrameComparer* - https://github.com/MrPowers/spark-fast-tests
+- Include unit tests into the **sbt** build script
+
 ## Docker + Kubernetes
 - Complete the following courses
   - Docker Essentials: A Developer Introduction - https://cognitiveclass.ai/courses/docker-essentials/
