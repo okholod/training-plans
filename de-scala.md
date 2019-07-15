@@ -25,6 +25,17 @@
   - If there are multiple product rows for different years, product/group combination should be concise
 - Application should be built using **sbt** tool
 
+### Training Application - Data Transformation
+- Create a data tranformation application using Apache Spark
+- Read data from the DB2 on the cloud (use the service instance and data from the previous task) 
+- Aggregate data in the dataframe by calculating total purchases amount per year
+  - For each row calculate total of monthly purchases
+  - Save the year total as a new column *year_purchases*
+  - Remove the columns with monthly amounts from the data frame
+- Save the modified dataframe as a file in Cloud Object Storage - https://www.ibm.com/cloud/object-storage
+  - Use Stocator library - https://github.com/CODAIT/stocator
+- Application should be built using **sbt** tool and published to Github
+
 ### Training Application - Unit Tests
 - Add unit tests to the training application
   - For unit tests creation use *ScalaTest* framework - http://www.scalatest.org/user_guide
