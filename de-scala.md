@@ -36,6 +36,16 @@
   - Use Stocator library - https://github.com/CODAIT/stocator
 - Application should be built using **sbt** tool and published to Github
 
+### Training Application - Data Partitioning
+- Modify the data transformation application to support data partitioning
+  - Spark Documentation - https://spark.apache.org/docs/2.2.1/sql-programming-guide.html#jdbc-to-other-databases
+- Partition data by *year* value and play with number of executors/workers to see the effects
+- Useful links
+  - Tips for using JDBC in Apache Spark SQL - https://medium.com/@radek.strnad/tips-for-using-jdbc-in-apache-spark-sql-396ea7b2e3d3
+  - How to optimize partitioning when migrating data from JDBC source? - https://stackoverflow.com/questions/52603131/how-to-optimize-partitioning-when-migrating-data-from-jdbc-source
+  - How to improve performance for slow Spark jobs using DataFrame and JDBC connection? - https://stackoverflow.com/questions/32188295/how-to-improve-performance-for-slow-spark-jobs-using-dataframe-and-jdbc-connecti
+- Application should be built using **sbt** tool and published to Github
+
 ### Training Application - Unit Tests
 - Add unit tests to the training application
   - For unit tests creation use *ScalaTest* framework - http://www.scalatest.org/user_guide
