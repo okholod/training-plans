@@ -58,3 +58,7 @@
 - Complete the following courses
   - Docker Essentials: A Developer Introduction - https://cognitiveclass.ai/courses/docker-essentials/
   - Container & Kubernetes Essentials with IBM Cloud - https://cognitiveclass.ai/courses/kubernetes-course/
+  
+## Spark + Kubernetes
+- Study the Apache Spark documentation
+  - Running Spark on Kubernetes - https://spark.apache.org/docs/latest/running-on-kubernetes.html
