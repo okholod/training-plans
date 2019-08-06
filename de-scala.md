@@ -62,3 +62,8 @@
 ## Spark + Kubernetes
 - Study the Apache Spark documentation
   - Running Spark on Kubernetes - https://spark.apache.org/docs/latest/running-on-kubernetes.html
+  
+### Apache Airflow
+- Familiarize yourself with Apache Airflow - https://airflow.apache.org/
+- Create a sample DAG for a Spark submit and schedule its execution
+- Create a Python script to create the same DAG programatically via Airflow API
