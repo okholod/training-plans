@@ -1,5 +1,7 @@
 # Data Science + Python
 
+**Job description:** Your job will be to clean and explore datasets, and make predictions that deliver business value. Your day-to-day will involve training and optimizing models, and often deploying them to production.
+
 ## Jupyter Notebooks
 - Start with installing Anaconda and check Jupyter notebooks there - https://www.anaconda.com/distribution/
 - Read the user documentation and play with samples - https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/examples_index.html
