@@ -1,5 +1,7 @@
 # Data Engineering + Scala
 
+**Job description:** You’ll be managing data pipelines for companies that deal with large volumes of data. That means making sure that your data is being efficiently collected and retrieved from its source when needed, cleaned and preprocessed.
+
 ## Big Data Foundations
 - https://www.udemy.com/big-data-and-hadoop-essentials-free-tutorial
 
