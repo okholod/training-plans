@@ -72,3 +72,9 @@
   - Airflow tutorial videos - https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2
 - Create a sample DAG for a Spark submit and schedule its execution
 - Create a Python script to create the same DAG programatically via Airflow API
+
+## Optional Training
+
+### Apache Kafka
+
+### Hadoop Stack
