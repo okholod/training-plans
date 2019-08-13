@@ -74,7 +74,7 @@ As a **Data Engineer**, you’ll be managing data pipelines for companies that d
 - Create a Python script defining the same DAG programatically via Airflow API and run it on Airflow
 
 ## Optional Training
-
-### Apache Kafka
-
-### Hadoop Stack
+- Complete the following learning paths
+  - Hadoop Fundamentals - https://cognitiveclass.ai/learn/hadoop/
+  - Hadoop Programming - https://cognitiveclass.ai/learn/big-data-hadoop-programming/
+  - Hadoop Data Access - https://cognitiveclass.ai/learn/big-data-storage-and-retrieval/
