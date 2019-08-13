@@ -70,8 +70,8 @@ As a **Data Engineer**, you’ll be managing data pipelines for companies that d
   - Documentation - https://airflow.apache.org/
   - Getting started with Apache Airflow - https://towardsdatascience.com/getting-started-with-apache-airflow-df1aa77d7b1b
   - Airflow tutorial videos - https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2
-- Create a sample DAG for a Spark submit and schedule its execution
-- Create a Python script to create the same DAG programatically via Airflow API
+- Create a sample DAG via UI for a Spark submit and run it
+- Create a Python script defining the same DAG programatically via Airflow API and run it on Airflow
 
 ## Optional Training
 
