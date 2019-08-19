@@ -1,4 +1,4 @@
-# Data Engineering + Scala
+# Data Engineer / Scala
 
 As a **Data Engineer**, you’ll be managing data pipelines for companies that deal with large volumes of data. That means making sure that your data is being efficiently collected and retrieved from its source when needed, cleaned and preprocessed.
 
