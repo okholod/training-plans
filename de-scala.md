@@ -2,12 +2,25 @@
 
 As a **Data Engineer**, you’ll be managing data pipelines for companies that deal with large volumes of data. That means making sure that your data is being efficiently collected and retrieved from its source when needed, cleaned and preprocessed.
 
+**Required skills:**
+- Java/Scala
+- solid foundation in SQL
+- Apache Spark
+- Apache Airflow 
+
+**Desired skills:**
+- Hadoop and/or Hive
+- Kafka and/or Apache Spark Streaming
+- ElasticSearch
+
 ## Big Data Foundations
-- https://www.udemy.com/big-data-and-hadoop-essentials-free-tutorial
+- Complete the following course to get essential understanding about Big Data and Hadoop
+  - Big Data and Hadoop Essentials - https://www.udemy.com/big-data-and-hadoop-essentials-free-tutorial
 
 ## Scala + Apache Spark
-- https://cognitiveclass.ai/learn/scala/
-- https://www.udemy.com/scala-and-spark-2-getting-started
+- Complete the courses to start with base knowledge of Scala and Apache Spark
+  - https://cognitiveclass.ai/learn/scala/
+  - https://www.udemy.com/scala-and-spark-2-getting-started
 
 ## IBM Cloud + Apache Spark
 - Create IBM Cloud account - https://cloud.ibm.com/registration
