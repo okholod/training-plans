@@ -1,6 +1,20 @@
 # Data Science + Python
 
-**Job description:** Your job will be to clean and explore datasets, and make predictions that deliver business value. Your day-to-day will involve training and optimizing models, and often deploying them to production.
+As a **Data scientist**, you will clean and explore datasets, and make predictions that deliver business value. Your day-to-day will involve training and optimizing models, and often deploying them to production.
+
+**Required skills:**
+- Python programming skills
+- Solid foundation in SQL
+- Numpy, scikit-learn, Pandas
+- TensorFlow/PyTorch
+- Cloud containerization environments and micro-services: Docker, Kubernetes
+
+**Desired skills:**
+- Experience working with SQL and noSQL databases using Python APIs: IBM DB2, IBM DashDB, Cloudant
+-	Understanding of REST principles and experience with web services frameworks like Flask
+- Experience working with Apache Spark
+-	Experience with web scraping frameworks
+- Experience with NLP frameworks: SpaCy, NLTK
 
 ## Jupyter Notebooks
 - Start with installing Anaconda and check Jupyter notebooks there - https://www.anaconda.com/distribution/
