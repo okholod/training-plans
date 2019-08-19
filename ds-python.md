@@ -1,6 +1,6 @@
-# Data Science + Python
+# Data Scientist / Python
 
-As a **Data scientist**, you will clean and explore datasets, and make predictions that deliver business value. Your day-to-day will involve training and optimizing models, and often deploying them to production.
+As a **Data Scientist**, you will clean and explore datasets, and make predictions that deliver business value. Your day-to-day will involve training and optimizing models, and often deploying them to production.
 
 **Required skills:**
 - Python programming skills
