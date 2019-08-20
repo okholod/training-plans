@@ -47,7 +47,7 @@ Complete *Machine Learning Specialization*. You will gain applied experience in 
   - Docker Essentials: A Developer Introduction - https://cognitiveclass.ai/courses/docker-essentials/
   - Container & Kubernetes Essentials with IBM Cloud - https://cognitiveclass.ai/courses/kubernetes-course/
   
-## Training Application
+## Training Project
 The main goal of this project is to get practical working experience in the following areas:
 - NLP and text processing
 - REST services
