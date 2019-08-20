@@ -38,7 +38,24 @@ As a **Data Scientist**, you will clean and explore datasets, and make predictio
 - Publish the notebook to GitHub and share with your supervisor
 - Perform exploratory analysis and initial visualization for the *Boston house prices dataset* - https://scikit-learn.org/stable/datasets/index.html#boston-dataset
 
+## Machine Learning Specialization
+Complete *Machine Learning Specialization*. You will gain applied experience in major areas of Machine Learning including Prediction, Classification, Clustering, and Information Retrieval. You will learn to analyze large and complex datasets, create systems that adapt and improve over time, and build intelligent applications that can make predictions from data.
+- Machine Learning Specialization - https://www.coursera.org/specializations/machine-learning
+
 ## Docker + Kubernetes
 - Complete the following courses
   - Docker Essentials: A Developer Introduction - https://cognitiveclass.ai/courses/docker-essentials/
   - Container & Kubernetes Essentials with IBM Cloud - https://cognitiveclass.ai/courses/kubernetes-course/
+  
+## Training Application
+The main goal of this project is to get practical working experience in the following areas:
+- NLP and text processing
+- REST services
+- Web scrapping
+- Containerization technologies
+- Microservices architecture
+
+The application is intended to automate data collcetion and analysis. The application should include the following components:
+- Data collection component - uses frameworks like *Scrapy* (https://scrapy.org/) and *Beautiful Soup* (https://www.crummy.com/software/BeautifulSoup/) to extract source data from websites
+- Entity Extraction service - a REST service that is created using Flask framework (https://palletsprojects.com/p/flask/) and extracts named entities from the source documents using SpaCy (https://spacy.io/) NLP model(s)
+- Visualization service - a REST service that takes a set of documents as an input and generates a visual representation of links between these documents
