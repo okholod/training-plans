@@ -59,3 +59,7 @@ The application is intended to automate data collcetion and analysis. The applic
 - **Data collection component** - uses frameworks like *Scrapy* (https://scrapy.org/) and *Beautiful Soup* (https://www.crummy.com/software/BeautifulSoup/) to extract source data from websites
 - **Entity Extraction service** - a REST service that is created using *Flask* framework (https://palletsprojects.com/p/flask/) and extracts named entities from the source documents using *SpaCy* (https://spacy.io/) NLP model(s)
 - **Visualization service** - a REST service that takes a set of documents as an input and generates a visual representation of links between these documents
+
+### Tutorials and guides
+- Scrappy
+  - How To Crawl A Web Page with Scrapy and Python 3 - https://www.digitalocean.com/community/tutorials/how-to-crawl-a-web-page-with-scrapy-and-python-3
