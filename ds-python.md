@@ -56,6 +56,6 @@ The main goal of this project is to get practical working experience in the foll
 - Microservices architecture
 
 The application is intended to automate data collcetion and analysis. The application should include the following components:
-- Data collection component - uses frameworks like *Scrapy* (https://scrapy.org/) and *Beautiful Soup* (https://www.crummy.com/software/BeautifulSoup/) to extract source data from websites
-- Entity Extraction service - a REST service that is created using Flask framework (https://palletsprojects.com/p/flask/) and extracts named entities from the source documents using SpaCy (https://spacy.io/) NLP model(s)
-- Visualization service - a REST service that takes a set of documents as an input and generates a visual representation of links between these documents
+- **Data collection component** - uses frameworks like *Scrapy* (https://scrapy.org/) and *Beautiful Soup* (https://www.crummy.com/software/BeautifulSoup/) to extract source data from websites
+- **Entity Extraction service** - a REST service that is created using *Flask* framework (https://palletsprojects.com/p/flask/) and extracts named entities from the source documents using *SpaCy* (https://spacy.io/) NLP model(s)
+- **Visualization service** - a REST service that takes a set of documents as an input and generates a visual representation of links between these documents
