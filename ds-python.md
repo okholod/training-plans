@@ -63,3 +63,5 @@ The application is intended to automate data collcetion and analysis. The applic
 ### Tutorials and guides
 - Scrappy
   - How To Crawl A Web Page with Scrapy and Python 3 - https://www.digitalocean.com/community/tutorials/how-to-crawl-a-web-page-with-scrapy-and-python-3
+- REST architectural style and APIs
+  - REST API Tutorial - https://restfulapi.net/
