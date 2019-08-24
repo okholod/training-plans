@@ -43,6 +43,9 @@ Complete *Machine Learning Specialization*. You will gain applied experience in 
 - Machine Learning Specialization - https://www.coursera.org/specializations/machine-learning
 
 ## Docker + Kubernetes
+- Quick introduction videos
+  - Learn Docker in 12 Minutes - https://www.youtube.com/watch?v=YFl2mCHdv24
+  - Docker Compose in 12 Minutes - https://www.youtube.com/watch?v=Qw9zlE3t8Ko
 - Complete the following courses
   - Docker Essentials: A Developer Introduction - https://cognitiveclass.ai/courses/docker-essentials/
   - Container & Kubernetes Essentials with IBM Cloud - https://cognitiveclass.ai/courses/kubernetes-course/
