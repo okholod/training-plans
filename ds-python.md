@@ -69,4 +69,6 @@ The application is intended to automate data collcetion and analysis. The applic
 - REST architectural style and APIs
   - REST API Tutorial - https://restfulapi.net/
   - Thoughts on RESTful API Design - https://restful-api-design.readthedocs.io/en/latest/intro.html
+- Flask
+  - Flask documentation - https://flask.palletsprojects.com/en/1.1.x/#
   - Building beautiful REST APIs using Flask, Swagger UI and Flask-RESTPlus - http://michal.karzynski.pl/blog/2016/06/19/building-beautiful-restful-apis-using-flask-swagger-ui-flask-restplus/
