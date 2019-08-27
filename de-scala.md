@@ -40,6 +40,8 @@ As a **Data Engineer**, you’ll be managing data pipelines for companies that d
   - There should be no duplicates for the same product/year
   - If there are multiple product rows for different years, product/group combination should be concise
 - Application should be built using **sbt** tool
+- Use environment variables to specify configuration parameters like JDBC URL and connection credentials
+- Add description of the application functionality and instructions on how to run it into a *README.md* file in Github
 
 ### Training Application - Data Transformation
 - Create a data tranformation application using Apache Spark
@@ -51,6 +53,10 @@ As a **Data Engineer**, you’ll be managing data pipelines for companies that d
 - Save the modified dataframe as a file in Cloud Object Storage - https://www.ibm.com/cloud/object-storage
   - Use Stocator library - https://github.com/CODAIT/stocator
 - Application should be built using **sbt** tool and published to Github
+- Use *spark-submit* to run the application and Spark configuration properties to specify configuration parameters like JDBC URL and connection credentials
+  - Submitting Applications - https://spark.apache.org/docs/latest/submitting-applications.html
+  - Method to get Spark configuration properties - https://spark.apache.org/docs/2.3.0/api/java/org/apache/spark/SparkContext.html#getConf--
+- Add description of the application functionality and instructions on how to run it using *spark-submit* into a *README.md* file in Github
 
 ### Training Application - Data Partitioning
 - Modify the data transformation application to support data partitioning
@@ -61,6 +67,7 @@ As a **Data Engineer**, you’ll be managing data pipelines for companies that d
   - How to optimize partitioning when migrating data from JDBC source? - https://stackoverflow.com/questions/52603131/how-to-optimize-partitioning-when-migrating-data-from-jdbc-source
   - How to improve performance for slow Spark jobs using DataFrame and JDBC connection? - https://stackoverflow.com/questions/32188295/how-to-improve-performance-for-slow-spark-jobs-using-dataframe-and-jdbc-connecti
 - Application should be built using **sbt** tool and published to Github
+- Add description of the application functionality and instructions on how to run it using *spark-submit* into a *README.md* file in Github
 
 ### Training Application - Unit Tests
 - Add unit tests to the training application
