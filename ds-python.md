@@ -63,6 +63,38 @@ The application is intended to automate data collcetion and analysis. The applic
 - **Entity Extraction service** - a REST service that is created using *Flask* framework (https://palletsprojects.com/p/flask/) and extracts named entities from the source documents using *SpaCy* (https://spacy.io/) NLP model(s)
 - **Visualization service** - a REST service that takes a set of documents as an input and generates a visual representation of links between these documents
 
+### Entity Extraction Service
+The service takes a collected article as input and produces JSON object of the following format:
+```
+{
+  title: "3 Top Dividend Stocks With Yields Over 4%",
+  date: 2019-05-22T15:21:34.198+00:00,
+  link: "https://www.fool.com/investing/2019/05/25/3-top-dividend-stocks-with-y...",
+  content: "International Business Machines (NYSE:IBM) has raised its dividend pay...",
+  keywords: [
+    "international business machines", "ibm", "red hat", ... ],
+  entities: [
+    { 
+      start: 0,
+      end: 30,
+      type: "ORG"
+    },
+    {
+      start: 38,
+      end: 40,
+      type: "ORG"
+    }, ...
+  }
+}
+```
+where
+- *title* - the article title
+- *date* - timestamp extracted from the original article
+- *link* - URL of the original article
+- *content* - text of the article
+- *keywords* - search keywords extracted from the article (**unique** entities converted to lower case)
+- *entities* - named entities extracted from the article
+
 ### Tutorials and guides
 - Scrappy
   - How To Crawl A Web Page with Scrapy and Python 3 - https://www.digitalocean.com/community/tutorials/how-to-crawl-a-web-page-with-scrapy-and-python-3
