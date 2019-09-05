@@ -9,3 +9,7 @@ The following paths are related to **Data Science and AI** areas. We tried to co
 * [Data Engineer / Scala](de-scala.md)
 * [Data Scientist / Python](ds-python.md)
 * [Machine Learning Engineer / Python](mle-python.md)
+* [Javascript developer](js.md)
+* [Awesome JS links](awesome-js.md)
+* [Awesome CSS links](awesome-css.md)
+* [Awesome NodeJS links](awesome-nodejs.md)
