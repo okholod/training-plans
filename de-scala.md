@@ -95,6 +95,10 @@ As a **Data Engineer**, you’ll be managing data pipelines for companies that d
 - Create a sample DAG via UI for a Spark submit and run it
 - Create a Python script defining the same DAG programatically via Airflow API and run it on Airflow
 
+For quick overview of how Airflow clusters work look at these two articles:
+- How Apache Airflow Distributes Jobs on Celery workers - https://blog.sicara.com/using-airflow-with-celery-workers-54cb5212d405
+- Setting up an Apache Airflow Cluster - http://site.clairvoyantsoft.com/setting-apache-airflow-cluster/
+
 ## Optional Training
 - Complete the following learning paths
   - Hadoop Fundamentals - https://cognitiveclass.ai/learn/hadoop/
