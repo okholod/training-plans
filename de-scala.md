@@ -81,6 +81,8 @@ As a **Data Engineer**, you’ll be managing data pipelines for companies that d
 - Complete the following courses
   - Docker Essentials: A Developer Introduction - https://cognitiveclass.ai/courses/docker-essentials/
   - Container & Kubernetes Essentials with IBM Cloud - https://cognitiveclass.ai/courses/kubernetes-course/
+- Look at the best practices
+  - Best practices for writing Dockerfiles - https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
   
 ## Spark + Kubernetes
 - Study the Apache Spark documentation
