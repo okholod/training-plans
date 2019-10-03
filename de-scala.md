@@ -19,6 +19,8 @@ As a **Data Engineer**, you’ll be managing data pipelines for companies that d
   - Big Data and Hadoop Essentials - https://www.udemy.com/big-data-and-hadoop-essentials-free-tutorial
 
 ## Scala + Apache Spark
+- Quick orientation on what Apache Spark is
+  - Apache Spark: A Conceptual Orientation - https://towardsdatascience.com/apache-spark-a-conceptual-orientation-e326f8c57a64
 - Complete the courses to start with base knowledge of Scala and Apache Spark
   - https://cognitiveclass.ai/learn/scala/
   - https://www.udemy.com/scala-and-spark-2-getting-started
