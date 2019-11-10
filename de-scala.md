@@ -85,10 +85,17 @@ As a **Data Engineer**, you’ll be managing data pipelines for companies that d
   - Container & Kubernetes Essentials with IBM Cloud - https://cognitiveclass.ai/courses/kubernetes-course/
 - Look at the best practices
   - Best practices for writing Dockerfiles - https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+
+### Minikube
+- Install Minikube on your local PC.
+  - Use the following guide to install kubectl https://kubernetes.io/docs/tasks/tools/install-kubectl/
+  - Use the following guide to install minikube https://kubernetes.io/docs/tasks/tools/install-minikube/
+- Complete the following tutorial https://kubernetes.io/docs/tutorials/kubernetes-basics/
   
 ## Spark + Kubernetes
 - Study the Apache Spark documentation
   - Running Spark on Kubernetes - https://spark.apache.org/docs/latest/running-on-kubernetes.html
+- Run your test application on minikube
   
 ## Apache Airflow
 - Familiarize yourself with Apache Airflow 
