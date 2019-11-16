@@ -18,3 +18,6 @@ hardware of some kind, but you may also be called upon to design models yourself
 - Stream-processing software: Kafka, RabbitMQ, MQTT, Apache Spark Streaming
 -	Experience with web scraping frameworks
 - Experience with NLP frameworks: SpaCy, NLTK
+
+## IBM AI Engineering Professional Certificate
+- Complete all courses in the IBM AI Engineering Professional Certificate program on Coursera - https://www.coursera.org/professional-certificates/ai-engineer
