@@ -116,3 +116,6 @@ where
   - Standalone WSGI Containers - https://flask.palletsprojects.com/en/1.1.x/deploying/wsgi-standalone/#gunicorn
   - Building beautiful REST APIs using Flask, Swagger UI and Flask-RESTPlus - http://michal.karzynski.pl/blog/2016/06/19/building-beautiful-restful-apis-using-flask-swagger-ui-flask-restplus/
   - How to build a simple Flask RESTful API with Docker-Compose - https://medium.com/@daniel.carlier/how-to-build-a-simple-flask-restful-api-with-docker-compose-2d849d738137
+  
+## IBM Data Science Professional Certificate
+- Complete all courses in the IBM Data Science Professional Certificate program on Coursera - https://www.coursera.org/professional-certificates/ibm-data-science
