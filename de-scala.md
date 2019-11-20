@@ -80,6 +80,9 @@ As a **Data Engineer**, you’ll be managing data pipelines for companies that d
 - Include unit tests into the **sbt** build script
 
 ## Docker + Kubernetes
+- Quick introduction videos
+  - Learn Docker in 12 Minutes - https://www.youtube.com/watch?v=YFl2mCHdv24
+  - Docker Compose in 12 Minutes - https://www.youtube.com/watch?v=Qw9zlE3t8Ko
 - Complete the following courses
   - Docker Essentials: A Developer Introduction - https://cognitiveclass.ai/courses/docker-essentials/
   - Container & Kubernetes Essentials with IBM Cloud - https://cognitiveclass.ai/courses/kubernetes-course/
@@ -87,7 +90,7 @@ As a **Data Engineer**, you’ll be managing data pipelines for companies that d
   - Best practices for writing Dockerfiles - https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 
 ### Minikube
-- Install Minikube on your local PC.
+- Install Minikube on your workstation
   - Use the following guide to install kubectl https://kubernetes.io/docs/tasks/tools/install-kubectl/
   - Use the following guide to install minikube https://kubernetes.io/docs/tasks/tools/install-minikube/
 - Complete the following tutorial https://kubernetes.io/docs/tutorials/kubernetes-basics/
