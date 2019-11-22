@@ -22,3 +22,8 @@ This document is intended to list materials we consider useful to look at for an
   - Container & Kubernetes Essentials with IBM Cloud - https://cognitiveclass.ai/courses/kubernetes-course/
 - Look at the best practices
   - Best practices for writing Dockerfiles - https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+  
+## Git
+- Pro Git book - https://git-scm.com/book/en/v2
+- Best Practices
+  - Collaboration best practices with Git and GitHub - http://drive.delicious-insights.com/legacy-files/git-github-collab-bp.pdf
