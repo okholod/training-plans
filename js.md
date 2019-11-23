@@ -34,3 +34,12 @@
 
 **Awesome links:**
 * [Awesome NodeJS links](awesome-nodejs.md)
+
+### Node.js Certification
+- OpenJS Node.js Application Developer (JSNAD) - https://training.linuxfoundation.org/certification/jsnad/
+
+  The OpenJS Node.js Application Developer certification is designed for anyone looking to demonstrate competence with Node.js to create applications of any kind, with a focus on knowledge of Node.js core APIs.
+  
+- OpenJS Node.js Services Developer (JSNSD) - https://training.linuxfoundation.org/certification/jsnsd/
+
+  The OpenJS Node.js Services Developer certification is designed for anyone looking to demonstrate competence in creating RESTful Node.js Servers and Services (or Microservices) with a particular emphasis on security practices.
