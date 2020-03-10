@@ -7,6 +7,8 @@ This document is intended to list materials we consider useful to look at for an
 - Complete the following courses to refresh you knowledges
   - SQL and Relational Databases 101 - https://cognitiveclass.ai/courses/learn-sql-relational-databases
   - NoSQL and DBaaS 101 - https://cognitiveclass.ai/courses/introduction-nosql-dbaas
+- MongoDB is one of the most popular noSQL DBMS. Multiple courses available for free
+  - MongoDB University Online Courses - https://university.mongodb.com/courses/catalog
   
 ## REST
 - Check these tutorials to improve your understanding of REST architectural style and principles
