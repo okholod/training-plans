@@ -29,3 +29,5 @@ This document is intended to list materials we consider useful to look at for an
 - Pro Git book - https://git-scm.com/book/en/v2
 - Best Practices
   - Collaboration best practices with Git and GitHub - http://drive.delicious-insights.com/legacy-files/git-github-collab-bp.pdf
+- GitHub Guides section hosts several quick tutorials, at least consider looking at 'Hello World'
+  - GitHub Guides - https://guides.github.com/
