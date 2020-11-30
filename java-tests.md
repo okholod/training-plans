@@ -4,7 +4,7 @@
 
 Create a Java-based service that extracts IBAN accounts from a text. 
 
-The service need to fulfill the folowing set of requirements:
+The service need to fulfill the following set of requirements:
 - takes a text fragment as an input
 - returns JSON with a list of IBANs extracted 
 - works over HTTP protocol
