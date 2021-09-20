@@ -20,3 +20,6 @@ And some really useful links on different related technologies:
 * [Awesome JS links](awesome-js.md)
 * [Awesome CSS links](awesome-css.md)
 * [Awesome NodeJS links](awesome-nodejs.md)
+
+Useful materials for interview preparation:
+* [Python basics and data processing](python-interview.md)
