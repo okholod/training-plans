@@ -11,6 +11,9 @@ The following paths are related to **Data Science and AI** areas. We tried to co
 * [Data Engineer / Scala](de-scala.md)
 * [Data Scientist / Python](ds-python.md)
 * [Machine Learning Engineer / Python](mle-python.md)
+ 
+Useful materials for interview preparation:
+* [Python basics and data processing](python-interview.md)
 
 ## Web Development
 We suggest the next preparation path for JavaScript developers.
@@ -20,6 +23,3 @@ And some really useful links on different related technologies:
 * [Awesome JS links](awesome-js.md)
 * [Awesome CSS links](awesome-css.md)
 * [Awesome NodeJS links](awesome-nodejs.md)
-
-Useful materials for interview preparation:
-* [Python basics and data processing](python-interview.md)
